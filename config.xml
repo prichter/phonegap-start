@@ -17,7 +17,8 @@
 
 	<icon src="icon.png" gap:role="default" />
 
-	<feature name="http://mobill.degabble.com/tasks"/>
+	<access origin="http://mobill.degabble.com" />
+	<feature name="http://api.phonegap.com/1.0/media" />
 
 	<preference name="orientation" value="portrait" />
 </widget>
