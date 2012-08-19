@@ -10,14 +10,14 @@
 		An awesome piece of billing goodness!
 	</description>
 
-	<author href="http://www.paulrichter.org"
+	<author href="http://www.vtsw.com.au"
 		email="paul@vtsw.com.au">
 		Paul Richter
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
 
-	<access origin="http://mobill.degabble.com" />
+	<access origin="http://degabble.com" />
 	<feature name="http://api.phonegap.com/1.0/media" />
 
 	<preference name="orientation" value="portrait" />
