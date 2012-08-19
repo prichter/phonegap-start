@@ -4,10 +4,10 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>Pauls Thing: mobill</name>
+	<name>moBill Android</name>
 
 	<description>
-		An attempt at getting mobill to android
+		An awesome piece of billing goodness!
 	</description>
 
 	<author href="http://www.paulrichter.org"
